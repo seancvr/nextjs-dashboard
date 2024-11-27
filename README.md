@@ -4,7 +4,7 @@ This is the completed source code from the Learn Next.js introduction course.
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-This course assumes a basic understanding of React and JavaScript
+This course assumes a basic understanding of React and JavaScript.
 
 This course covers the following Next.js features:
 
